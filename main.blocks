@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=".?%)@4lXK-JDWytVr-jU">mySprite</variable></variables><block type="pxt-on-start" id="Vt:u@$x:gpykvds}pHXw" x="0" y="0"><comment pinned="true" h="540" w="499">black is wall
+green is start postiion
+light blue is where been
+dark blue is fronteer
+white is not been
+purple is your character
+yellow is the end
+
+to do
+make it so character can only move in tile positions
+
+make it so uses algorithym to decide where to go
+
+have atleast 3 algorithyms
+DFS
+BFS
+random movemnets
+
+eventually use the neuronet AI to try and solve the maze the fastest maybe do in anotehr program</comment><data>{"commentRefs":[],"fieldData":{"~commentOffsetX":"-571.7777777777778","~commentOffsetY":"-72.88888888888889"}}</data><statement name="HANDLER"><block type="set_current_tilemap" id="Sk`F^MNV4jvMG]!rLEOY"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="+a68F(wDEE7[q(6EFP@U"><field name="tilemap">tilemap`level1`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level1"}}</data></shadow></value></block></statement></block></xml>
