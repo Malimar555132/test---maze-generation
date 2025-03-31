@@ -1,5 +1,5 @@
 {
-    "name": "Test - Maze Generation",
+    "name": "Game - Maze Generation",
     "description": "",
     "dependencies": {
         "device": "*"
